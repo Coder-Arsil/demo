@@ -1,4 +1,4 @@
 function demo() {
-  alert("Run fine :)");
+  alert("DEVELOPMENT MODE ACTIVATED #HACK");
 }
 demo();
